@@ -27,6 +27,7 @@ _This program can only be accessed on a PC with Windows 10, and with git and ato
 |---|---|---|
 |User inputs a word| Portland/Portland   | 1   |
 |User inputs a sentence  | Portland/Portland is great city    | 1  |
+|User inputs sentence with no matching | Portland/Seattle | 0  |
 |Check how many times word in the sentence | Portland/Portland is Portland  | 2  |
 
 
